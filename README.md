@@ -7,6 +7,8 @@ My Unity Tools - Scene Loading
 
 _A package that standardizes the scene loading process among many different possibilities, including support for Coroutines, C# Tasks, UniTask and Addressables._
 
+:warning: The package has been moved to [another repository](https://github.com/myunitytools/scene-loader). This repository is archived and will be deleted.
+
 Installation
 ---
 
